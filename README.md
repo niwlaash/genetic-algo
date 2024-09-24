@@ -1,2 +1,4 @@
 # genetic-algo
-Genetic Algorithm on inventory
+## Genetic Algorithm on Inventory
+
+Finding the best position for products with lowest cost
